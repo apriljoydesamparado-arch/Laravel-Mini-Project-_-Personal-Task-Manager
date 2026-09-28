@@ -26,13 +26,15 @@ Database Used:
 
 
  # SCREENSHOTS
+<img width="1219" height="361" alt="addd" src="https://github.com/user-attachments/assets/b16ae960-b64d-4737-abe0-537bb26209c6" />
 
- ![View Tasks](screenshots/addd.png)
+<img width="671" height="586" alt="typee" src="https://github.com/user-attachments/assets/62c286c9-dea2-4a64-863c-2cb21f708745" />
 
- ![Add Task](screenshots/typee.png)
+<img width="1216" height="391" alt="pending" src="https://github.com/user-attachments/assets/f9380920-47b5-4ec3-9346-e82099e3c552" />
 
- ![Task Created](screenshots/pending.png)
+<img width="889" height="601" alt="update" src="https://github.com/user-attachments/assets/d6014689-c6f9-49f9-9acf-ff2219508aa0" />
 
- ![Edit Task](screenshots/update.png)
+<img width="1178" height="364" alt="complete" src="https://github.com/user-attachments/assets/c80b7f94-c192-4ec8-9c9c-04e7ce5c3ac9" />
 
- ![Task Updated](screenshots/complete.png)
+
+
